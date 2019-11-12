@@ -2371,3 +2371,8 @@ input, select, textarea {
 			width: 108.33px;
 			height: 86px;
 		}
+
+		.profilePic {
+			width: fit-content;
+			height: fit-content;
+		}
